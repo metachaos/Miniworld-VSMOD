@@ -1,0 +1,44 @@
+Name - Extended Resources? Miniworld?
+"One Chunk World" mod - for the smallest world size 32x32 blocks (started 11/21/22)
+
+clay is the first hurdle, and having enough resources, such as seeds and blocks to pan
+
+grass baskets - 4 slots, maybe it can't contain full blocks? maybe it decays over time? 3 diagonal grass - twined grass, 2 twined grass in chest shape = grass basket (total 48 grass)
+making soil - extending composting? compost + sand?
+making sand, gravel = gravel could be 4 rocks crushed with hammer? sand maybe needs pulverizer + gravel?
+making water - hollowed out log that can only be filled by rain? maybe you have to burn out the inside? build a fire on top of a single log, watch it until it transforms to hollow log, put out log? or just remove fire?
+making clay/sand - have water flow over soil (in a grass sieve?) and deposit as layers of "purified" sand and clay - or, sieve contains the purified sand, and a chest under the water gets the clay? or it deposits in layers? Not sure. Grass sieve - twisted grass in single x pattern (total 15 grass) - soil = 4 layers of clay + 1 purified sand, first pass, make like it is a firepit and two outputs of clay and purified sand
+purified sand - replacement for quartz? should it have a rock type?
+making fire clay - 4 pieces clay + broken pottery = 6 fire clay, broken pottery = hammer + any fired clay thing. output of broken pottery dependant on input number of clay to make the thing.
+purified sand can't be panned, nothing to get out of it
+grain seeds can drop from grass? grass drops a few kinds of seeds that you have to breed up to get real grain seeds?
+What about other seeds? Possibility of different ground cover types growing? like nightshade or mustard or broadleaf vine?
+Looks like animal spawns need to be curtailed for the smallest world sizes?
+Tree seeds? bushes? reeds? Wandering traders, perhaps? Weight toward agriculture and commodities traders at first. Maybe you need to make a specific place for them to spawn/feel welcome? How often?
+Add trades to traders, including a populated bee skep, standard seeds, flowers - or maybe a beekeeper trader?
+World gen - make the top layers of sand/soil deeper, maybe more complex; make it so that the chunks will spawn with sedimentary on top (or basalt, then sedimentary). Also make the world "deeper"/"higher"
+salt - rare drop in sieve? or drops from low fertility soil? or just buy it? prevent it from spawning in domes, since that might make the whole world salt?
+add dirt and muddy gravel to panning list
+at least one tree
+at least 100% temporal stability
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

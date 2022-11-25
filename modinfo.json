@@ -1,0 +1,13 @@
+{
+  "type": "content",
+  "modid": "miniworld",
+  "name": "Miniworld Mod",
+  "description" : "A mod to make living on small maps more enjoyable",
+  "authors": ["Metachaos"],
+  "version": "0.22.11.23",
+  "dependencies": { 
+	"game": "1.17.9",
+	"survival": "1.17.9"
+  },
+  "website": "https://github.com/metachaos/Miniworld-VSMOD"
+}
